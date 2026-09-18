@@ -262,7 +262,7 @@ This information helps analysts establish context around a suspicious file and d
 
 ---
 
-```
+
 
 ### Recommended Files
 
