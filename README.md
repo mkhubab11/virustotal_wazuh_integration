@@ -275,7 +275,6 @@ This information helps analysts establish context around a suspicious file and d
 | `screenshots/`                     | Evidence of setup and detection                |
 | `notes/testing-notes.md`           | Test procedure and observations                |
 
----
 
 ---
 
